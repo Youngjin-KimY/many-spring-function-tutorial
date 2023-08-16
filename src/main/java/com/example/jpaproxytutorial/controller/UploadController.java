@@ -10,7 +10,7 @@ import java.util.concurrent.CompletableFuture;
 
 @RestController
 public class UploadController {
-    AsyncUpload asyncUpload;
+    private final AsyncUpload asyncUpload;
 
     public UploadController(AsyncUpload asyncUpload) {
         this.asyncUpload = asyncUpload;

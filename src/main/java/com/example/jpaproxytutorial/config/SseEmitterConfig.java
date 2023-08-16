@@ -1,2 +1,8 @@
-package com.example.jpaproxytutorial.config;public class SseEmitterConfig {
+package com.example.jpaproxytutorial.config;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class SseEmitterConfig {
+
 }
