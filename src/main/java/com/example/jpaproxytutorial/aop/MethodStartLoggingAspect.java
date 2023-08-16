@@ -1,5 +1,6 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.aop;
 
+import com.example.jpaproxytutorial.component.CheckGererated;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.slf4j.Logger;

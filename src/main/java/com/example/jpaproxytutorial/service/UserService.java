@@ -1,5 +1,7 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.service;
 
+import com.example.jpaproxytutorial.component.CheckGererated;
+import com.example.jpaproxytutorial.dao.UserEntity;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 

@@ -1,5 +1,6 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.component;
 
+import com.example.jpaproxytutorial.service.UploadService;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 import org.springframework.web.multipart.MultipartFile;

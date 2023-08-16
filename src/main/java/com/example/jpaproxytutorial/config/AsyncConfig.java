@@ -1,4 +1,4 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

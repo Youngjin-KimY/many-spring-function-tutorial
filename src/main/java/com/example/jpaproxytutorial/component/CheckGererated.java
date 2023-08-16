@@ -1,4 +1,4 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.component;
 
 import jakarta.annotation.PostConstruct;
 

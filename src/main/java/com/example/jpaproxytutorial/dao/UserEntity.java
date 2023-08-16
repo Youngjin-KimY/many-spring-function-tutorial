@@ -1,5 +1,6 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.dao;
 
+import com.example.jpaproxytutorial.component.CheckGererated;
 import jakarta.persistence.*;
 
 @Entity

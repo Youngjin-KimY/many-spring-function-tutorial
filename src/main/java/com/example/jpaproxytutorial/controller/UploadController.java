@@ -1,5 +1,6 @@
-package com.example.jpaproxytutorial;
+package com.example.jpaproxytutorial.controller;
 
+import com.example.jpaproxytutorial.component.AsyncUpload;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
